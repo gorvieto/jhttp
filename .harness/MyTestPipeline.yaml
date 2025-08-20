@@ -1,5 +1,5 @@
 pipeline:
-  name: MyTestPipeline
+  name: MyTestPipeline23
   identifier: MyTestPipeline
   projectIdentifier: default_project
   orgIdentifier: default
