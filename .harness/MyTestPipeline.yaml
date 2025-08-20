@@ -40,7 +40,7 @@ pipeline:
                       # Simple Hello World script for Harness
 
                       echo "Hello, World from Harness!"
-             - step:
+              - step:
                   type: Run
                   name: Run_2
                   identifier: Run_2
